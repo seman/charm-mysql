@@ -94,6 +94,7 @@ e.g.
 
 Deploying Percona Server is an option in this charm, you can do so by editing the `flavor` option:
 
+
     juju set mysql flavor=percona
 
 WARNING: Migrating from MySQL to Percona Server in this fashion is currently a one-way migration, once you migrate you cannot migrate back via Juju. 
