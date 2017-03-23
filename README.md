@@ -132,3 +132,4 @@ When deploying MySQL on the local provider, there is a known memory exhaustion i
 - [Percona Server Homepage](http://www.percona.com/software/percona-server)
 - [Percona Server Bug Tracker](https://bugs.launchpad.net/percona-server/)
 - [MySQL mailing lists](http://lists.mysql.com/)
+
